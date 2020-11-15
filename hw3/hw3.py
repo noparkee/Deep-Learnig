@@ -151,7 +151,7 @@ num_test=40
 ## learning rate (lr)and number of gradient descent steps (num_gd_step)
 ## This part is not graded (there is no definitive answer).
 ## You can set this hyperparameters through experiments.
-lr=0.01                ###
+lr=0.2                ###
 num_gd_step= 2000      ###
 
 # dataset size
