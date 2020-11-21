@@ -11,3 +11,7 @@ linear regression
 
 ### hw3
 2-layer neural network
+
+### hw4
+1. CNN
+2. mnist train set
