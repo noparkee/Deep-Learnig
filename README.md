@@ -23,4 +23,4 @@ Implement a neural network classifier for MNIST dataset.
 3. update weights 
 
 ### hw6
-Implement a classifier for CIFAR-10 dataset using tensorflow
+Implement a classifier for CIFAR-10 dataset using pytorch
