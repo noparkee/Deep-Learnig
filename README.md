@@ -9,18 +9,18 @@ linear regression
 2. SVM-loss classifier    
 3. softmax classifier
 
-### hw3
+### hw3 (numpy)
 2-layer neural network
 
-### hw4
+### hw4 (numpy)
 1. CNN
 2. mnist train set
 
-### hw5
+### hw5 (numpy)
 Implement a neural network classifier for MNIST dataset.
 1. forward
 2. backprop
 3. update weights 
 
-### hw6
+### hw6 (pytorch)
 Implement a classifier for CIFAR-10 dataset using pytorch
